@@ -1,4 +1,4 @@
-package com.imax.serviceregistry
+package com.learning.serviceregistry
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

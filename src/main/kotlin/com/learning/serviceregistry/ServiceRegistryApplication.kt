@@ -1,4 +1,4 @@
-package com.imax.serviceregistry
+package com.learning.serviceregistry
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
